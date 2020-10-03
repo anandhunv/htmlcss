@@ -1,0 +1,22 @@
+
+form{
+    background-color: #F5F5F5;
+    color: #282C35;
+    
+}
+
+input,textarea{
+    border:1px solid #008B8B;
+}
+
+select {
+    border:1px solid #008B8B;
+}
+
+#after-age{
+    display:none;
+}
+
+#Type-Of-Vehicle-div{
+    display: none;
+}
