@@ -1,5 +1,5 @@
 var age = document.getElementById("age");
-
+/*
 age.onkeyup = function() {
     var age_value = document.getElementById("age").value;
     const after_age = document.querySelector("#after-age");
@@ -11,7 +11,7 @@ age.onkeyup = function() {
     else{
         after_age.style.display="none";
     }
-}
+}*/
 
 function myFunction()
 {
